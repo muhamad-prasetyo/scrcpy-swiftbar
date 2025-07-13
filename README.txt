@@ -10,6 +10,16 @@ Plugin ini memungkinkan kamu untuk menjalankan `scrcpy` dari menu bar macOS meng
 - Notifikasi suara & popup macOS.
 - Dibuat oleh **Muhamad Prasetyo**.
 
+## 🖼️ Tampilan
+
+![Tampilan plugin di menu bar](screenshot-fisrttime.png)
+
+![Tampilan plugin di menu bar](refresh-emu.png)
+
+![Tampilan plugin di menu bar](example-plugin-terpasang.png)
+
+![Tampilan plugin di menu bar](emu-succes-connected.png)
+![Tampilan plugin Sukses terhubung dan lauch emulator Otomatis ](success-run-emulator.png)
 
 🔗 Syarat
 
