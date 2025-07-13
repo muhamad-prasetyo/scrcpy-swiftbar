@@ -26,5 +26,5 @@ Plugin ini memungkinkan kamu untuk menjalankan `scrcpy` dari menu bar macOS meng
 1. Pastikan `brew` sudah terpasang di macOS.
 2. Clone atau download repo ini:
    ```bash
-   git clone https://github.com/namakamu/scrcpy-swiftbar-plugin.git
+   https://github.com/muhamad-prasetyo/scrcpy-swiftbar.git
    cd scrcpy-swiftbar-plugin
